@@ -1,4 +1,5 @@
 # Frontend Mentor - Shortly URL shortening API Challenge
+[Linkleri Kısalt❗💯🆗™©®](https://tarikozturk-05.github.io/shorten-link-api/)
 
 ![Design preview for the Shortly URL shortening API coding challenge](./design/desktop-preview.jpg)
 
