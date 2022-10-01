@@ -59,7 +59,9 @@ uyarı.innerHTML = `Api de sıkıntı var SORRYY:(`
 
 btn.addEventListener("click",()=>{
  main.innerHTML =""
+ 
 getApi();
+
 
 })
 // copy.addEventListener("click",()=>{
