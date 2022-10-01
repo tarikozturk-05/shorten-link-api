@@ -6,7 +6,7 @@ const uyarı = document.querySelector(".uyarı")
 const getApi= async()=>{
 const link = input.value;
 const url =
-  `https://api.shrtco.de/v2/shorte?url=${link}/very/long/link.html`; 
+  `https://api.shrtco.de/v2/shorten?url=${link}/very/long/link.html`; 
 try{
 const res = await fetch(url)
 const veri = await res.json()
